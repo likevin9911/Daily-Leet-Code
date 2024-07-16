@@ -1,2 +1,3 @@
 # Daily-Leet-Code
-written in C++
+LeetCpp -> Cpp
+LeetPy  -> Python
